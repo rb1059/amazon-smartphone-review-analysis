@@ -180,3 +180,10 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 data/
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+.env
+.venv/
+venv/
+.DS_Store
